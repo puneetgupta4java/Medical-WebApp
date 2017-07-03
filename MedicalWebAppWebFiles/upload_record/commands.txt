@@ -1,0 +1,31 @@
+/
+it is a root
+its parts:
+command:ls /
+1.temp,boot,etc,bin,home,sbin
+
+relative pathis the path given when we know everything & give whole path from start 
+to end
+
+absoute path is the path given when we are not sure given path from the current directory
+
+rwx - read,write,execute
+
+group--> -xr  - execute,read
+
+other client-->   -x  - execute
+
+touch keyword isused to make text file
+
+r-4
+w-2
+x-1
+denoted by these bits
+
+chmod 774
+this command is used to give processes 1st bit user defined
+2nd give group disscusion
+3rd give rights about r,w,x
+
+
+
